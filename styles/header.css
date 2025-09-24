@@ -1,0 +1,24 @@
+.header{
+    padding-block: 20px;
+}
+
+.header_container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.nav-list{
+    display: flex;
+    gap: 30px;
+}
+
+.logo{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.nav-link{
+    text-transform: uppercase;
+}

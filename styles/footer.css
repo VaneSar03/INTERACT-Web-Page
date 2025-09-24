@@ -1,0 +1,18 @@
+.footer{
+    background-color: white;
+}
+.footer__container{
+    height:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.design-text{
+    color:rgba(0, 0, 0, 0.626);
+    font-size:20px;
+    word-spacing: 1;
+}
+.link{
+    color:#5DA6FA;
+}
